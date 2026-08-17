@@ -1,7 +1,6 @@
 # Bayesian Regime Detection Engine for Equity Direction Forecasting
 
 **Author:** Quantitative Data Analyst Trainee 
-**Portfolio:** [GitHub](https://github.com/panjetajyoti) | [LinkedIn](https://www.linkedin.com/in/panjetajyoti2003/)  
 **Framework:** ZeTheta Algorithms / Indian AMC Ecosystem
 **Framework:** ZeTheta Algorithms / Indian AMC Ecosystem  
 
